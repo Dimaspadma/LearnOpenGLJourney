@@ -71,16 +71,16 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\padma2\Dev\Opengl\LearnOpenGLJourney\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\padma2\Dev\Opengl\LearnOpenGLJourney\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <IncludePath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\include;$(IncludePath)</IncludePath>
     <LibraryPath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\padma2\Dev\Opengl\LearnOpenGLJourney\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\padma2\Dev\Opengl\LearnOpenGLJourney\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>C:\Users\Padma\Desktop\Opengl\LearnOpenGL\Libraries\include;$(IncludePath)</IncludePath>
